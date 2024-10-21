@@ -13,7 +13,6 @@ Welcome to MiProyecto's documentation!
    primeros pasos
    batch_processing
    train_models
-   same_like_redis
    
 
 Indices and tables

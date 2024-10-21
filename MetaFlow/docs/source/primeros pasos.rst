@@ -12,4 +12,3 @@ sobre el conjunto de datos de cáncer de mama.
 
 **2** - train_models
 
-**3** - same_like_redis

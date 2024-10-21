@@ -138,8 +138,6 @@ class CombinedAndBatchProcessing(FlowSpec):
         hashed_values = [hashlib.sha256(substring.encode()).hexdigest() for substring in string_values]
 
 
-        print(hashed_values)
-
         # Preparamos los datos para ser enviados a Redis
         dict_redis = {}
         for index, hash_value in enumerate(hashed_values):
